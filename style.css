@@ -1,0 +1,51 @@
+
+table{
+    border:2px solid blue;
+    margin:20px;
+    border-collapse: collapse;
+    width:50%;
+
+    
+
+}
+th,td{
+   border:1px solid black;
+   padding:5px;
+   text-align: center;
+}
+th{
+    background-color: grey;
+}
+.name {
+    font-weight:bold;
+    color:red:
+}
+div{
+    background-color: yellow;
+    height:500px;
+    width:500px ;
+    margin:30px ;
+    padding:30px;
+    font-family: Arial,sans-serif;
+    font-size:20px;
+    border:3px dotted blue;
+     
+}
+#top{
+    font-size:30px;
+}
+#middle{
+    font-size:40px;
+}
+#bottom{
+    font-size:50px;
+}
+
+
+
+
+/* 
+margin-> space outside element
+padding-> space inside element
+border-> frame
+*/
